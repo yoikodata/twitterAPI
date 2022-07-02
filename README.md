@@ -1,5 +1,5 @@
 # twitterAPI access, extract data, and text sentiment analysis
-how to access and pull data from twitters API based on user account and basic sentiment analysis using ROBERTA
+how to access and pull data from twitters API, pulling tweets based on user account, and basic sentiment analysis using roBERTa
 
 code from 
 1. https://www.youtube.com/watch?v=bNDRiaFyLrs
